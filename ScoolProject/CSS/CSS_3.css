@@ -1,0 +1,13 @@
+h1 {
+    color: #af4242;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+#count{
+    color: rgb(45, 204, 204);
+    position: absolute;
+    left: 90%;
+    font-size: 1.3em;
+}
